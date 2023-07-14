@@ -245,5 +245,9 @@ body {
     .resume .resume_right {
       padding: 15px;
     }
+  .resume .resume_right .resume_hobby ul li:before {
+      content: normal;
+      justify-content: space-around;
+    }
   }
   
